@@ -12,4 +12,4 @@ require "pagseguro/notification"
 require "pagseguro/order"
 require "pagseguro/action_controller"
 require "pagseguro/helper"
-require "pagseguro/utils"
+require "pagseguro/utils" # modificacao no branch master
